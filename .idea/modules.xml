@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibs_mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/hibs_mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibs_mobile_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hibs_mobile_main.iml" group="hibs_mobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibs_mobile_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hibs_mobile_test.iml" group="hibs_mobile" />
+    </modules>
+  </component>
+</project>
